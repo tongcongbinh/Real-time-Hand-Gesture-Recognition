@@ -2,12 +2,13 @@
 
 
 HandGestureRecognition.py - Get data from camera and display gesture name<p>
-get_img.py - Get images and save it to "data" folder
-create_dataset.py - Get data from folder "data" and save data to "data.pickle" to training AI
-train_classifier.py - Training and save in "model.p"
+get_img.py - Get images and save it to "data" folder<p>
+create_dataset.py - Get data from folder "data" and save data to "data.pickle" to training AI<p>
+train_classifier.py - Training and save in "model.p"<p>
 
 ## **Requirements**
-1. Python – Python 3.10.8<p>
+Python – Python 3.10.8<p>
+
 OpenCV – 4.9.0
 ```
 pip install opencv
