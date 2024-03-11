@@ -6,11 +6,20 @@ get_img.py - Get images and save it to "data" folder
 create_dataset.py - Get data from folder "data" and save data to "data.pickle" to training AI
 train_classifier.py - Training and save in "model.p"
 
-# **Requirements**
+## **Requirements**
 1. Python – Python 3.10.8
-2. OpenCV – 4.9.0
+OpenCV – 4.9.0
 ```
-pip install pip opencv
+pip install opencv
+or pip install pip opencv
 ```
-4. MediaPipe – 0.10.10
-5. Numpy – 1.19.3
+MediaPipe – 0.10.10
+```
+pip install mediapipe
+or pip install pip mediapipe
+```
+Numpy – 1.19.3
+```
+pip install numpy
+or pip install pip numpy
+```
