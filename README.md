@@ -7,7 +7,7 @@ create_dataset.py - Get data from folder "data" and save data to "data.pickle" t
 train_classifier.py - Training and save in "model.p"<p>
 
 ## **Requirements**
-Python – Python 3.10.8<p>
+* ### Python – Python 3.10.8<p>
 
 * ### OpenCV – 4.9.0
 ```
@@ -16,14 +16,14 @@ pip install opencv
 ```
 pip install pip opencv
 ```
-### MediaPipe – 0.10.10
+* ### MediaPipe – 0.10.10
 ```
 pip install mediapipe
 ```
 ```
 pip install pip mediapipe
 ```
-### Numpy – 1.19.3
+* ### Numpy – 1.19.3
 ```
 pip install numpy
 ```
