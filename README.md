@@ -12,7 +12,7 @@ Python – Python 3.10.8<p>
 OpenCV – 4.9.0
 ```
 pip install opencv
-or `#f03c15` pip install pip opencv
+or #f03c15 pip install pip opencv
 ```
 MediaPipe – 0.10.10
 ```
