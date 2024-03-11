@@ -10,17 +10,23 @@ train_classifier.py - Training and save in "model.p"<p>
 Python – Python 3.10.8<p>
 
 OpenCV – 4.9.0
-```diff
+```
 pip install opencv
--or- pip install pip opencv
+```
+```
+pip install pip opencv
 ```
 MediaPipe – 0.10.10
 ```
 pip install mediapipe
+```
+```
 or pip install pip mediapipe
 ```
 Numpy – 1.19.3
 ```
 pip install numpy
+```
+```
 or pip install pip numpy
 ```
