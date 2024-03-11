@@ -8,7 +8,9 @@ train_classifier.py - Training and save in "model.p"<p>
 
 ## **Requirements**
 * **Python 3.10.8**
-
+```
+https://www.python.org/downloads/release/python-3108/
+```
 * **OpenCV 4.9.0**
 ```
 pip install opencv
