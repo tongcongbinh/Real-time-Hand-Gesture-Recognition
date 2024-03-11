@@ -1,4 +1,4 @@
-#**Real-time Hand Gesture Recognition**
+## **Real-time Hand Gesture Recognition**
 1. Python – Python 3.10.8
 2. OpenCV – 4.9.0
 3. MediaPipe – 0.10.10
